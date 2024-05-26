@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from rdkit.Chem import DataStructs
 import similarity_functions as sf
-import plotly.express as px
+# import plotly.express as px
 
 st.title("Molecular Similarity Calculator")
 
