@@ -74,18 +74,3 @@ if submit_button and uploaded_file is not None:
 
 else:
     st.write("Please upload a CSV file to proceed.")
-    
-    
-    
-NC(=N)NCCCNC(=O)[C@@H]1CS[C@H]2CC[C@H](NS(=O)(=O)Cc3ccccc3)C(=O)N12
-NC(=N)NCCCNC(=O)[C@@H]1CS[C@H]2CC[C@@H](NS(=O)(=O)Cc3ccccc3)C(=O)N12
-
-
-COCc1c(nnn1c2nonc2N)C(=O)N\N=C\c3cccc4ccccc34
-COCc1c(nnn1c2nonc2N)C(=O)N\N=C\c3cccc4ccccc34
-
-
-
-
-InChI=1S/C18H16N8O3/c1-28-10-14-15(21-25-26(14)17-16(19)23-29-24-17)18(27)22-20-9-12-7-4-6-11-5-2-3-8-13(11)12/h2-9H,10H2,1H3,(H2,19,23)(H,22,27)/b20-9+
-InChI=1S/C18H16N8O3/c1-28-10-14-15(21-25-26(14)17-16(19)23-29-24-17)18(27)22-20-9-12-7-4-6-11-5-2-3-8-13(11)12/h2-9H,10H2,1H3,(H2,19,23)(H,22,27)/b20-9+
