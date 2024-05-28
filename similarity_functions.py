@@ -7,6 +7,7 @@ from tqdm import tqdm
 # import matplotlib.pyplot as plt
 # import seaborn as sns
 
+
 def read_data_from_csv(file_path):
     """
     Read SMILES strings and ChEMBL IDs from a CSV file.
